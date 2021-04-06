@@ -1,4 +1,4 @@
-package problems.interview
+package problems
 
 import java.util.*
 import kotlin.collections.HashMap
